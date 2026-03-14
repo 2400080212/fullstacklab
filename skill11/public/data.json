@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Ganesh Pramod", "course": "AIDS", "year": "2nd" },
+  { "id": 2, "name": "Vijay Kumar", "course": "CSBS", "year": "3rd" },
+  { "id": 3, "name": "Ananya Rao", "course": "ECE", "year": "1st" }
+]
